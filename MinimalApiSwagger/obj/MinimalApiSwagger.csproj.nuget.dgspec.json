@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MSlearn\\AspNetCoreRouting101\\MinimalAPISwagger\\MinimalApiSwagger.csproj": {}
+    "C:\\MSlearn\\AspNetCoreRouting101\\MinimalApiSwagger\\MinimalApiSwagger.csproj": {}
   },
   "projects": {
-    "C:\\MSlearn\\AspNetCoreRouting101\\MinimalAPISwagger\\MinimalApiSwagger.csproj": {
+    "C:\\MSlearn\\AspNetCoreRouting101\\MinimalApiSwagger\\MinimalApiSwagger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MSlearn\\AspNetCoreRouting101\\MinimalAPISwagger\\MinimalApiSwagger.csproj",
+        "projectUniqueName": "C:\\MSlearn\\AspNetCoreRouting101\\MinimalApiSwagger\\MinimalApiSwagger.csproj",
         "projectName": "MinimalApiSwagger",
-        "projectPath": "C:\\MSlearn\\AspNetCoreRouting101\\MinimalAPISwagger\\MinimalApiSwagger.csproj",
+        "projectPath": "C:\\MSlearn\\AspNetCoreRouting101\\MinimalApiSwagger\\MinimalApiSwagger.csproj",
         "packagesPath": "C:\\Users\\AKora\\.nuget\\packages\\",
-        "outputPath": "C:\\MSlearn\\AspNetCoreRouting101\\MinimalAPISwagger\\obj\\",
+        "outputPath": "C:\\MSlearn\\AspNetCoreRouting101\\MinimalApiSwagger\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",

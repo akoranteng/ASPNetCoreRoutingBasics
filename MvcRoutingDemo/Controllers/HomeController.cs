@@ -6,19 +6,23 @@ namespace MvcRoutingDemo.Controllers;
 
 public class HomeController : Controller
 {
+    // Matches: /
+    // Matches: /home
+    // Matches: /home/index
     public IActionResult Index()
     {
-        return View();
+        return Content("Home Index (Conventional Routing)");
     }
 
-    public IActionResult Privacy()
+    // Matches: /home/about
+    public IActionResult About()
     {
-        return View();
+        return Content("About Page");
     }
 
-    [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-    public IActionResult Error()
+    // Matches: /home/details/5
+    public IActionResult Details(int id)
     {
-        return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        return Content($"Details for ID = {id}");
     }
 }

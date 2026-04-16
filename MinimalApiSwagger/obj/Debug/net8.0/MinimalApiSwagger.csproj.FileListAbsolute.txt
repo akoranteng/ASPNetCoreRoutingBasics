@@ -29,6 +29,7 @@ C:\MSlearn\AspNetCoreRouting101\MinimalApiSwagger\obj\Debug\net8.0\staticwebasse
 C:\MSlearn\AspNetCoreRouting101\MinimalApiSwagger\obj\Debug\net8.0\staticwebassets.development.json
 C:\MSlearn\AspNetCoreRouting101\MinimalApiSwagger\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\MSlearn\AspNetCoreRouting101\MinimalApiSwagger\obj\Debug\net8.0\swae.build.ex.cache
+C:\MSlearn\AspNetCoreRouting101\MinimalApiSwagger\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\MSlearn\AspNetCoreRouting101\MinimalApiSwagger\obj\Debug\net8.0\MinimalA.FE82E806.Up2Date
 C:\MSlearn\AspNetCoreRouting101\MinimalApiSwagger\obj\Debug\net8.0\MinimalApiSwagger.dll
 C:\MSlearn\AspNetCoreRouting101\MinimalApiSwagger\obj\Debug\net8.0\refint\MinimalApiSwagger.dll

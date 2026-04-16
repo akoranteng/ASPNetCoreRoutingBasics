@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "MvcRoutingDemo/1.0.0": {
+        "runtime": {
+          "MvcRoutingDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MvcRoutingDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

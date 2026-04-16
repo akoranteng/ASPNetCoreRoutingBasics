@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MinimalApiSwagger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+510265a99aa09d0daba2bacebfd95b929e27f008")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf9dd6204c7c27ace7c98e9c3c83109ec4a1297b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MinimalApiSwagger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MinimalApiSwagger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
